@@ -1,5 +1,18 @@
 {
   "projects": {
     "default": "doctor-a8ace"
-  }
+  },
+  "targets": {
+    "doctor-a8ace": {
+      "hosting": {
+        "aurex": [
+          "aurex-athletic-club"
+        ],
+        "carewell": [
+          "carewell"
+        ]
+      }
+    }
+  },
+  "etags": {}
 }
